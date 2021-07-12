@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"cloudinit","Source":"./vm/images/cloudinit","Dir":"vm/images/cloudinit"},{"Key":"ubuntu","Source":"./vm/images/ubuntu","Dir":"vm/images/ubuntu"},{"Key":"","Source":"","Dir":"."}]}
