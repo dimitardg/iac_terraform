@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"cloudinit","Source":"./vm/images/cloudinit","Dir":"/home/skynet/Documents/workspace/IaC/terraform/k8s_clusters/skynet_k8s_roce/vm/images/cloudinit"},{"Key":"ubuntu","Source":"./vm/images/ubuntu","Dir":"/home/skynet/Documents/workspace/IaC/terraform/k8s_clusters/skynet_k8s_roce/vm/images/ubuntu"}]}
